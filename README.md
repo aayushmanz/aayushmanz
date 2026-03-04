@@ -1,25 +1,22 @@
-# Hi there, I'm Ayush Suthar👋
+# Ayush Suthar
 
-🚀 **Aspiring Machine Learning Engineer | The Maverick | Tech Enthusiast**
+**Aspiring Machine Learning Engineer**
 
-I'm a BCA student who successfully transitioned from an Arts background into the core of logic building and AI. I used to grind in games like RDR2 and CODM, but now I treat Python, algorithms, and debugging as my ultimate game. 
+I am a BCA student deeply passionate about Machine Learning and Data Science. I am currently focused on building strong fundamentals in software architecture, logic building, and artificial intelligence. 
 
-### 🕵️‍♂️ The Blueprint
-- 🎓 Currently pursuing my BCA (3rd Semester) at Vision College of Commerce in Chittorgarh, India.
-- 💼 **Experience:** Completed a solid 1-month Java Development Internship at Oasis Infobyte. 
+### 🎓 Education & Background
+- **Bachelor of Computer Applications (BCA)** - Vision College of Commerce (Currently in 3rd Semester)
 
-### 🌱 Currently Grinding & Building
-- 🐍 Actively crushing the "100 Days of Machine Learning" challenge.
-- ⚙️ Mastering Python internals (OOPs, Exception Handling, Decorators).
-- 📂 Tracking my daily logic and coding battles in my `Python-for-ML` repository.
-- 🚀 Pre-computing the logic to dive deep into NumPy, Pandas, and Scikit-Learn.
+### 💼 Experience & Achievements
+- **Full Stack Web Development Intern:** Completed a 6-week internship and project work ("Florify") certified by E & ICT Academy, IIT Kanpur. Tech stack: HTML5, CSS3, JS, Bootstrap, PHP, MySQL.
+- **Java Development Intern:** Completed a 1-month internship at Oasis Infobyte, gaining practical software development experience.
 
-### ⚡ Offline Exceptions (Fun Facts)
-- 🗺️ Massive nerd for geopolitics and military tech (always tracking global defense updates).
-- 🦖 Fascinated by dinosaurs and the evolution of prehistoric life.
-- 🤼‍♂️ Big fan of professional wrestling (WWE).
-- 🥦 Pure vegetarian.
+### 💻 Technical Skills & Current Focus
+- **Languages & Core Concepts:** Python, Object-Oriented Programming (OOP), Exception Handling.
+- **Machine Learning Journey:** Currently executing the "100 Days of Machine Learning" challenge.
+- **Data Science Libraries:** Building a solid foundation to master NumPy, Pandas, and Scikit-Learn.
+- **Projects:** Documenting my daily coding progress and logic building in my `Python-for-ML` repository.
 
-📫 **Let's Connect:** https://www.linkedin.com/in/ayush-suthar-324856283
-
----
+### 📫 Connect with Me
+- [Insert LinkedIn Link]
+- [Insert Wellfound Link]
