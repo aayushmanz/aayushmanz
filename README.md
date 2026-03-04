@@ -1,4 +1,4 @@
-# Hi there, I'm Ayush Suthar (aka Ayushman) 👋 🦅
+# Hi there, I'm Ayush Suthar👋
 
 🚀 **Aspiring Machine Learning Engineer | The Maverick | Tech Enthusiast**
 
