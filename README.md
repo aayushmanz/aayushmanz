@@ -18,4 +18,4 @@ I am a BCA student deeply passionate about Machine Learning and Data Science. I 
 - **Projects:** Documenting my daily coding progress and logic building in my `Python-for-ML` repository.
 
 ### 📫 Connect with Me
-- https://www.linkedin.com/in/ayush-suthar-324856283
+- www.linkedin.com/in/aayushmanz
