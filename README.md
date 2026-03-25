@@ -5,7 +5,7 @@
 I am a BCA student deeply passionate about Machine Learning and Data Science. I am currently focused on building strong fundamentals in software architecture, logic building, and artificial intelligence. 
 
 ###  Education & Background
-- **Bachelor of Computer Applications (BCA)** - Vision College of Commerce (Currently in 3rd Semester)
+- **Bachelor of Computer Applications (BCA)** - Vision College of Commerce (Currently in 3rd Semester).
 
 ###  Experience & Achievements
 - **Full Stack Web Development Intern:** Completed a 6-week internship and project work ("Florify") certified by E & ICT Academy, IIT Kanpur. Tech stack: HTML5, CSS3, JS, Bootstrap, PHP, MySQL.
