@@ -15,7 +15,7 @@ I am a BCA student deeply passionate about Machine Learning and Data Science. I 
 - **Languages & Core Concepts:** Python, Object-Oriented Programming (OOP), Exception Handling.
 - **Machine Learning Journey:** Currently executing the "100 Days of Machine Learning" challenge.
 - **Data Science Libraries:** Building a solid foundation to master NumPy, Pandas, and Scikit-Learn.
-- **Projects:** Documenting my daily coding progress and logic building in my `Python-for-ML` repository.
+- **Projects:** Documenting my daily coding progress and logic building in my `Python-for-ML` repository..
 
 ###  Connect with Me
 - www.linkedin.com/in/aayushmanz
