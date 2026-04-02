@@ -1,6 +1,6 @@
 # Ayush Suthar
 
-**Aspiring Machine Learning Engineer**
+**Aspiring Machine Learning Engineer.**
 
 I am a BCA student deeply passionate about Machine Learning and Data Science. I am currently focused on building strong fundamentals in software architecture, logic building, and artificial intelligence. 
 
