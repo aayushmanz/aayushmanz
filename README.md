@@ -1,21 +1,33 @@
-# Ayush Suthar
+# Hi there, I'm Ayush Suthar 👋
 
-**Aspiring Machine Learning Engineer.**
+### Data Analyst | Aspiring Machine Learning Engineer
 
-I am a BCA student deeply passionate about Machine Learning and Data Science. I am currently focused on building strong fundamentals in software architecture, logic building, and artificial intelligence. 
+I am a BCA student at Vision College of Commerce, deeply passionate about extracting business insights from messy data and building AI/ML models. I have transitioned from Java to Python and am currently focused on Advanced Data Analytics, SQL, and Machine Learning algorithms. 
 
-###  Education & Background
-- **Bachelor of Computer Applications (BCA)** - Vision College of Commerce (Currently in 4rd Semester).
+### 💼 Experience & Internships
 
-###  Experience & Achievements
-- **Full Stack Web Development Intern:** Completed a 6-week internship and project work ("Florify") certified by E & ICT Academy, IIT Kanpur. Tech stack: HTML5, CSS3, JS, Bootstrap, PHP, MySQL.
-- **Java Development Intern:** Completed a 1-month internship at Oasis Infobyte, gaining practical software development experience.
+* **AI Strategy and Business Intelligence Intern** | *IBM SkillsBuild (Sponsored by CSRBOX)*
+  * Gained hands-on experience with Business Intelligence tools and AI strategy implementation.
+  * Developed a strong understanding of how data drives real-world business logic and decision-making.
 
-###  Technical Skills & Current Focus.
-- **Languages & Core Concepts:** Python, Object-Oriented Programming (OOP), Exception Handling.
-- **Machine Learning Journey:** Currently executing the "100 Days of Machine Learning" challenge.
-- **Data Science Libraries:** Building a solid foundation to master NumPy, Pandas, and Scikit-Learn.
-- **Projects:** Documenting my daily coding progress and logic building in my `Python-for-ML` repository..
+* **Full Stack Web Development Intern** | *E & ICT Academy, IIT Kanpur*
+  * Completed a 6-week project-based internship ("Florify"). Tech stack: HTML5, CSS3, JS, Bootstrap, PHP, MySQL.
 
-###  Connect with Me
-- www.linkedin.com/in/aayushmanz
+* **Java Development Intern** | *Oasis Infobyte*
+  * Completed a 1-month internship gaining practical software development and logic-building experience.
+
+### 🛠️ Technical Skills & Current Focus
+
+* **Data Science & Analytics:** Python, Pandas, NumPy, Scikit-Learn.
+* **Hands-on Expertise:** Advanced Data Cleaning, handling missing values mathematically, and conducting deep-dive Exploratory Data Analysis (EDA) to find business-critical outliers (e.g., 'Dirty Cafe' sales data).
+* **Core Concepts:** Object-Oriented Programming (OOP), Exception Handling, and Version Control (Git/GitHub).
+* **Current Sprint:** Expanding my data architecture skills with SQL and preparing to deploy ML models via web apps. 
+
+### 📈 GitHub Stats
+* ⚡ **400+ Contributions** in 2026, showcasing aggressive consistency and a strong focus on daily coding.
+* 📂 Documenting my daily logic building and data science journey in my `Python-For-Data-Science` repository.
+
+### 📫 Connect with Me
+* [LinkedIn](https://www.linkedin.com/in/aayushmanz)
+* [Kaggle](https://www.kaggle.com/aayushmanz)
+* 📧 sutharayush36@gmail.com
