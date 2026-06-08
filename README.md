@@ -29,10 +29,11 @@ I am a Bachelor of Computer Applications (BCA) student deeply passionate about e
 
 ---
 
-### GitHub Stats
+### Projects & Progress
 
-* **400+ Contributions** in 2026, demonstrating strong consistency and a disciplined approach to daily coding.
 * Documenting my daily logic building and data science progress in my `Python-For-Data-Science` repository.
+
+![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aayushmanz&show_icons=true&theme=transparent&hide_border=true)
 
 ---
 
