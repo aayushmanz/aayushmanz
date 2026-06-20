@@ -29,7 +29,7 @@ I am a Bachelor of Computer Applications (BCA) student deeply passionate about e
 
 ---
 
-### Projects & Progress
+### Projects & Progress :
 
 * Documenting my daily logic building and data science progress in my `Python-For-Data-Science` repository.
 
