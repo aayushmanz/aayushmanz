@@ -6,7 +6,7 @@ I am a Bachelor of Computer Applications (BCA) student deeply passionate about e
 
 ---
 
-### Experience & Internships
+### Experience & Internships :
 
 * **AI Strategy and Business Intelligence Intern** | *IBM SkillsBuild (Sponsored by CSRBOX)*
   * Gained hands-on experience with Business Intelligence tools and AI strategy implementation.
