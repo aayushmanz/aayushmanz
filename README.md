@@ -20,7 +20,7 @@ I am a Bachelor of Computer Applications (BCA) student deeply passionate about e
 
 ---
 
-### Technical Skills & Current Focus
+### Technical Skills & Current Focus :
 
 * **Data Science & Analytics:** Python, Pandas, NumPy, Scikit-Learn.
 * **Hands-on Expertise:** Advanced Data Cleaning, mathematical imputation for missing values, and conducting deep-dive Exploratory Data Analysis (EDA) to identify business-critical outliers in real-world datasets.
