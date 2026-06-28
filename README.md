@@ -37,7 +37,7 @@ I am a Bachelor of Computer Applications (BCA) student deeply passionate about e
 
 ---
 
-### Contact & Links
+### Contact & Links :
 
 * **LinkedIn:** [linkedin.com/in/aayushmanz](https://www.linkedin.com/in/aayushmanz)
 * **Kaggle:** [kaggle.com/aayushmanz](https://www.kaggle.com/aayushmanz)
