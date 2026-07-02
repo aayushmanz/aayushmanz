@@ -1,6 +1,6 @@
 # Ayush Suthar
 
-### Data Analyst | Aspiring Machine Learning Engineer
+### Data Analyst | Aspiring Machine Learning Engineer :
 
 I am a Bachelor of Computer Applications (BCA) student deeply passionate about extracting actionable business insights from unstructured data and building machine learning models. I have transitioned from Java to Python and am currently focused on Advanced Data Analytics, SQL, and Machine Learning algorithms.
 
