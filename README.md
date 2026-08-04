@@ -35,9 +35,6 @@ I am a Bachelor of Computer Applications (BCA) student deeply passionate about e
 
 ![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aayushmanz&show_icons=true&theme=transparent&hide_border=true)
 
-
-![](https://komarev.com/ghpvc/?username=aayushmanz&color=red)
-
 ---
 
 ### Contact & Links 
