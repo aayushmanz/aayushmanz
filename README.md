@@ -34,6 +34,7 @@ I am a Bachelor of Computer Applications (BCA) student deeply passionate about e
 * Documenting my daily logic building and data science progress in my `Python-For-Data-Science` repository.
 
 ![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aayushmanz&show_icons=true&theme=transparent&hide_border=true)
+![](https://komarev.com/ghpvc/?username=aayushmanz&color=red)
 
 ---
 
