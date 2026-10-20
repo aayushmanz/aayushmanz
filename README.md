@@ -1,4 +1,4 @@
-# Ayush Suthar.
+# Ayush Suthar
 
 ### Data Analyst | Aspiring Machine Learning Engineer :
 
